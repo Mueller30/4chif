@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Dec 08 19:13:51 CET 2013:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): Instanz a816c00e-0142-d36a-5632-0000032959a0
+für Datenbankverzeichnis C:\Users\Konstanze\Documents\HTL Spengergasse\jdbc_system_muellerK\jdbcSystem mit Class Loader sun.misc.Launcher$AppClassLoader@2b8f73cb
+Geladen aus file:/C:/_derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+user.dir=C:\Users\Konstanze\Documents\HTL Spengergasse\jdbc_system_muellerK
+os.name=Windows NT (unknown)
+os.arch=amd64
+os.version=6.2
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
