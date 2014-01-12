@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <Produkt ursprungsdatum="January 2014">
+    <herkunft>Steiermark</herkunft>
+ <bezeichnung>Speck</bezeichnung>
+    <preis>13</preis>
+    <amaguetesiegel>1</amaguetesiegel>
+  </Produkt>
+  <Produkt ursprungsdatum="November 2013">
+    <bezeichnung>Kartoffeln</bezeichnung>
+    <herkunft>Niederoesterreich</herkunft>
+    <preis>2</preis>
+    <amaguetesiegel>0</amaguetesiegel>
+  </Produkt>
+  <Produkt ursprungsdatum="January 2014">
+    <bezeichnung>Milch</bezeichnung>
+    <herkunft>Tirol</herkunft>
+    <preis>1</preis>
+    <amaguetesiegel>1</amaguetesiegel>
+  </Produkt>
+</config>
